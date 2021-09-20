@@ -16,4 +16,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
----- 
+cloned repository from usacity (udacity/pdsnd_github) was used
